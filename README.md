@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirav Gupta</h1>
 <p align="center">
-  <em>🎓 CSE undergrad at NSUT Delhi | | 💻 Web Dev & ML Learner</em>
+  <em>🎓 CSE undergrad at NSUT Delhi  | 💻 Web Dev & ML Learner</em>
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Full Stack projects** 
-- 🌱 Learning **Machine Learning**, **Full Stack Development**DSA
+- 🌱 Learning **Machine Learning**, **Full Stack Development**
 - 🤝 Actively looking for ** Internships 2026**
 - 🎸 Fun fact:  **geopolitics**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirav-gupta-6b0b471b2/)
