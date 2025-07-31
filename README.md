@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niravgupta&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niravgupta&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIRAVG1&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRAVG1&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -40,8 +40,9 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niravgupta&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIRAVG1&theme=tokyonight" width="60%" />
 </p>
+
 
 ---
 
