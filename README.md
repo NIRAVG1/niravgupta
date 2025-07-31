@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirav Gupta</h1>
 <p align="center">
-  <em>🎓 CSE undergrad at NSUT Delhi | ☁️ Aspiring Cloud Engineer | 💻 Web Dev & ML Learner</em>
+  <em>🎓 CSE undergrad at NSUT Delhi | | 💻 Web Dev & ML Learner</em>
 </p>
 
 ---
@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **React projects** and improving my **DSA skills**
-- 🌱 Learning **Machine Learning**, **Full Stack Development**, and **AWS Cloud**
-- 🤝 Actively looking for **Winter Internships 2025**
+- 🌱 Learning **Machine Learning**, **Full Stack Development**DSA
+- 🤝 Actively looking for ** Internships 2026**
 - 🎸 Fun fact: I play guitar & love deep-diving into **geopolitics**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirav-gupta-6b0b471b2/)
 
@@ -48,7 +48,7 @@
 ### 💡 DSA Practice
 
 - 📘 Solving problems on **[LeetCode](https://leetcode.com/u/Nirav1/)** regularly  
-- 🧠 Currently focusing on **DP, Graphs, and Trees**
+
 
 ---
 
