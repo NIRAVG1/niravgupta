@@ -68,7 +68,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-gupta-6b0b471b2/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Nirav1/)
-[![Gmail](https://img.shields.io/badge/-niravgupta@example.com-EA4335?logo=gmail&logoColor=white)](mailto:niravgupta@example.com)
+[![Gmail](https://img.shields.io/badge/-niravg277@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:niravgupta@example.com)
 
 ---
 
