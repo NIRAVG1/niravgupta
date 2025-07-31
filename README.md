@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Full Stack projects** and improving my **DSA skills**
+- 🔭 Currently working on **Full Stack projects** 
 - 🌱 Learning **Machine Learning**, **Full Stack Development**DSA
 - 🤝 Actively looking for ** Internships 2026**
 - 🎸 Fun fact:  **geopolitics**
