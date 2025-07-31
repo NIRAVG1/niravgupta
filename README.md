@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **React projects** and improving my **DSA skills**
-- 🌱 Learning about **Machine Learning, Full Stack Dev, and Cloud Computing (AWS)**
-- 🤝 Looking for **Winter Internships 2025** in **Web Dev / ML / Cloud**
-- 🎸 Fun fact: I play guitar & love discussing **geopolitics**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirav-gupta/) (update this if needed)
+- 🌱 Learning **Machine Learning**, **Full Stack Development**, and **AWS Cloud**
+- 🤝 Actively looking for **Winter Internships 2025**
+- 🎸 Fun fact: I play guitar & love deep-diving into **geopolitics**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirav-gupta-6b0b471b2/)
 
 ---
 
@@ -45,12 +45,19 @@
 
 ---
 
+### 💡 DSA Practice
+
+- 📘 Solving problems on **[LeetCode](https://leetcode.com/u/Nirav1/)** regularly  
+- 🧠 Currently focusing on **DP, Graphs, and Trees**
+
+---
+
 ### ✨ Recent Projects
 
 - 🛍️ **E-commerce React App**
 - 📋 **Notes App with Local Storage**
 - 🤖 **ML: Student Performance Predictor**
-- 💻 **Portfolio Website** (WIP)
+- 💻 **Portfolio Website** (Work in Progress)
 
 > ✨ *More coming soon…*
 
@@ -58,12 +65,9 @@
 
 ### 📌 Let's Connect
 
-<a href="https://www.linkedin.com/in/nirav-gupta/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:youremail@example.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-gupta-6b0b471b2/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Nirav1/)
+[![Gmail](https://img.shields.io/badge/-niravgupta@example.com-EA4335?logo=gmail&logoColor=white)](mailto:niravgupta@example.com)
 
 ---
 
