@@ -7,10 +7,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **React projects** and improving my **DSA skills**
+- 🔭 Currently working on **Full Stack projects** and improving my **DSA skills**
 - 🌱 Learning **Machine Learning**, **Full Stack Development**DSA
 - 🤝 Actively looking for ** Internships 2026**
-- 🎸 Fun fact: I play guitar & love deep-diving into **geopolitics**
+- 🎸 Fun fact:  **geopolitics**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirav-gupta-6b0b471b2/)
 
 ---
